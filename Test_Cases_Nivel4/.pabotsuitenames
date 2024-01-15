@@ -1,0 +1,9 @@
+datasources:50e046e01f5c51b7eee02856de8da1d792008519
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:24e9e06afea370d279e528fe4c824b785fcc1c81
+--suite Suites.Prueba1
+--suite Suites.Prueba2
+--suite Suites.Prueba3
+--suite Suites.Prueba4
+--suite Suites.Prueba5
